@@ -2,7 +2,7 @@
 
 🎓 Student | Aspiring Software Developer
 
-💻 Currently learning Python, JavaScript Git, GitHub. 
+💻 Currently learning Python, JavaScript, Git, GitHub. 
 
 🌱 Exploring backend development, APIs, and building real-world projects.
 
